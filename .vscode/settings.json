@@ -1,0 +1,14 @@
+{
+     "java.project.referencedLibraries": [
+          "lib/**/*.jar",
+          "/Users/aryan/Desktop/JavaLibs/mysql-connector-java-8.0.22/mysql-connector-java-8.0.22.jar",
+          "/Users/aryan/Desktop/JavaLibs/javafx-sdk-15.0.1/lib/javafx-swt.jar",
+          "/Users/aryan/Desktop/JavaLibs/javafx-sdk-15.0.1/lib/javafx.base.jar",
+          "/Users/aryan/Desktop/JavaLibs/javafx-sdk-15.0.1/lib/javafx.controls.jar",
+          "/Users/aryan/Desktop/JavaLibs/javafx-sdk-15.0.1/lib/javafx.fxml.jar",
+          "/Users/aryan/Desktop/JavaLibs/javafx-sdk-15.0.1/lib/javafx.graphics.jar",
+          "/Users/aryan/Desktop/JavaLibs/javafx-sdk-15.0.1/lib/javafx.media.jar",
+          "/Users/aryan/Desktop/JavaLibs/javafx-sdk-15.0.1/lib/javafx.swing.jar",
+          "/Users/aryan/Desktop/JavaLibs/javafx-sdk-15.0.1/lib/javafx.web.jar"
+     ]
+}
